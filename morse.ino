@@ -14,21 +14,25 @@ void loop()
 {
 	printH();
 	delay(delayTimeLetters);
-	printI();
-	delay(delayTimeWords);
-	
-	printP();
-	delay(delayTimeLetters);
 	printE();
 	delay(delayTimeLetters);
-	printR();
+	printL();
 	delay(delayTimeLetters);
-	printS();
+	printL();
+	delay(delayTimeLetters);
+	printO();
+	delay(delayTimeWords);
+	
+	printW();
 	delay(delayTimeLetters);
 	printO();
 	delay(delayTimeLetters);
-	printN();
-	delay(delayTimeWords);
+	printR();
+	delay(delayTimeLetters);
+	printL();
+	delay(delayTimeLetters);
+	printD();
+	delay(delayTimeLetters);
 }
 
 void printA()
